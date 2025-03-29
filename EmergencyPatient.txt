@@ -1,0 +1,3 @@
+ID : 3213. Name : Hilena . Age : 43 . Gender : F . Initial Diagnostics : HeadAche
+ID : 1122. Name : Peter . Age : 65 . Gender : M . Initial Diagnostics : StomachPain
+ID : 2311. Name : Shahmeer . Age : 23 . Gender : M . Initial Diagnostics : StomachPain

@@ -1,0 +1,2 @@
+Patient Name: umer . Age : 23  Phone Number : 098992901  .  Doctor null 
+Patient Name: Shahmeer . Age : 34  Phone Number : 03076670069  .  Doctor null 

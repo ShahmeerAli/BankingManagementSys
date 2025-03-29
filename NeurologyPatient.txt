@@ -1,0 +1,3 @@
+ID : 3422 . Name: Shahmeer. AGE: 23. Gender:M. BedNo : 3 
+ID : 3211 . Name: Joe. AGE: 78. Gender:M. BedNo : 7 
+ID : 2321 . Name: Ena. AGE: 34. Gender:F. BedNo : 34 .ADMIT DATE: 2023-12-21 

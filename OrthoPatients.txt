@@ -1,0 +1,4 @@
+ID: 1234. Name : Shahmeer . Age : 23 . Gender : M . BedNo: 4
+ID: 3455. Name : Trump . Age : 76 . Gender : M . BedNo: 2 
+ID: 3456. Name : ShahBaloch . Age : 45 . Gender : M . BedNo: 2 
+ID: 9807. Name : FledStop . Age : 67 . Gender : F . BedNo: 9 
